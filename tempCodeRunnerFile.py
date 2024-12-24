@@ -1,0 +1,1 @@
+self.selecionar_foto()
